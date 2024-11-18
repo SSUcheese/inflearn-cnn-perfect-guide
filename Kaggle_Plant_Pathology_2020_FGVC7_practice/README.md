@@ -1,0 +1,1 @@
+# Kaggle_Plant_Pathology_2020_FGVC7_practice
